@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LiquorMania</string>
+    <string name="action_settings">Preferences</string>
+    <string name="hello_world">Tipos de Licor:</string>
+    <string name="marcas">Marcas:</string>
+    <string name="filter_label_text">Filter Data</string>
+
+</resources>
