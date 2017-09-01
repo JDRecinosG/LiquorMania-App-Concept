@@ -1,0 +1,2 @@
+# LiquorMania-App-Concept
+LiquorMania is a store for my father's liquor distribution company. It sells many many different brands that aren't very popular in Guatemala. They wanted an app that would "teach" people why their products are so great and the many different cocktails you could make using our own liquors. The app also served as my final project for a Mobile Development class in college. The idea was never approved so the app was never developed.
